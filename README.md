@@ -44,9 +44,7 @@ Below is the detailed project documentation for the Help Desk Ticketing System:
 
 | Create Ticket Screen | Ticket List Screen |
 |-----------------------|---------------------|
-| ![Create Ticket](images/create_ticket_wireframe.png) | ![Ticket List](images/ticket_list_wireframe.png) |
-
-*(Replace with real screenshots in your repo!)*
+| ![Create Ticket](https://github.com/Priya-Kumaravel/business-analyst-projects/blob/main/create_ticket_wireframe.png) | ![Ticket List](https://github.com/Priya-Kumaravel/business-analyst-projects/blob/main/ticket_list_wireframe.png) |
 
 ---
 
