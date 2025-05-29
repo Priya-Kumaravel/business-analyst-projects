@@ -14,7 +14,7 @@ This repository showcases my work as a **Business Analyst** on the **Employee On
 
 ## 📄 Project Documentation
 
-✅ [View Full Project PDF](https://github.com/Priya-Kumaravel/business-analyst-projects/blob/main/Employee_Onboarding_Portal_AVA_Project.pdf)
+✅ [View Full Project PDF](https://github.com/Priya-Kumaravel/business-analyst-projects/blob/main/employee-onboarding-portal/Employee_Onboarding_Portal_AVA_Project.pdf)
 
 ---
 
@@ -35,13 +35,15 @@ This repository showcases my work as a **Business Analyst** on the **Employee On
 
 ---
 
-## 📷 Visual Previews
+## 📷  Wireframes
 
-| Process Flow Diagram | Wireframes Overview |
-|-----------------------|----------------------|
-| ![Process Flow](https://github.com/Priya-Kumaravel/business-analyst-projects/blob/main/onboarding_process_flow.png) | ![Wireframes](https://github.com/Priya-Kumaravel/business-analyst-projects/blob/main/onboarding_wireframes.png) |
+| Create Account Screen | New Employee Dashboard |
+|---------------------------|---------------------------|
+| ![Create Account Screen](https://github.com/username/repo/blob/main/employee-onboarding-portal/new_employee_dashboard_1.png) | ![New Employee Dashboard](https://github.com/username/repo/blob/main/employee-onboarding-portal/new_employee_dashboard_2.png) |
 
-✅ *(Replace with actual links to your images in the repo!)*
+| HR Task Assignment Panel | IT/Facilities View |
+|--------------------------|---------------------|
+| ![HR Task Assignment Panel](https://github.com/username/repo/blob/main/employee-onboarding-portal/hr_task_assignment_panel.png) | ![IT/Facilities View](https://github.com/username/repo/blob/main/employee-onboarding-portal/it_facilities_view.png) |
 
 ---
 
@@ -54,7 +56,7 @@ This repository showcases my work as a **Business Analyst** on the **Employee On
 ---
 
 **Let’s Connect!**  
-I’m open to sharing insights and collaborating further. Connect with me on [LinkedIn](https://linkedin.com/in/yourname).
+I’m open to sharing insights and collaborating further. Connect with me on [LinkedIn](https://www.linkedin.com/in/priya-darshini-kumaravel-750953213/).
 
 ---
 
