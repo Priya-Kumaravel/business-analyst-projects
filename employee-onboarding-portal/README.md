@@ -39,11 +39,11 @@ This repository showcases my work as a **Business Analyst** on the **Employee On
 
 | Create Account Screen | New Employee Dashboard |
 |---------------------------|---------------------------|
-| ![Create Account Screen](https://github.com/username/repo/blob/main/employee-onboarding-portal/new_employee_dashboard_1.png) | ![New Employee Dashboard](https://github.com/username/repo/blob/main/employee-onboarding-portal/new_employee_dashboard_2.png) |
+| ![Create Account Screen](https://github.com/Priya-Kumaravel/business-analyst-projects/blob/main/employee-onboarding-portal/Create_Account_Screen.png) | ![New Employee Dashboard](https://github.com/Priya-Kumaravel/business-analyst-projects/blob/main/employee-onboarding-portal/New_Employee_Dashboard.png) |
 
 | HR Task Assignment Panel | IT/Facilities View |
 |--------------------------|---------------------|
-| ![HR Task Assignment Panel](https://github.com/username/repo/blob/main/employee-onboarding-portal/hr_task_assignment_panel.png) | ![IT/Facilities View](https://github.com/username/repo/blob/main/employee-onboarding-portal/it_facilities_view.png) |
+| ![HR Task Assignment Panel](https://github.com/Priya-Kumaravel/business-analyst-projects/blob/main/employee-onboarding-portal/HR%20Task%20Assignment%20Panel.png) | ![IT/Facilities View](https://github.com/Priya-Kumaravel/business-analyst-projects/blob/main/employee-onboarding-portal/IT_Facilities%20View.png) |
 
 ---
 
