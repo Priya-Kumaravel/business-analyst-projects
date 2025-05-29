@@ -11,6 +11,9 @@ Below is the detailed project documentation for the Help Desk Ticketing System:
 
 📷 Click to view the full PDF and wireframe screenshots below.
 
+✅ [View Full Project PDF](https://github.com/Priya-Kumaravel/business-analyst-projects/blob/main/Employee_Onboarding_Portal_AVA_Project.pdf)
+
+
 - **Executive Summary**  
   Overview of the project goals, solutions, and outcomes.
 
